@@ -1,7 +1,10 @@
 # WinTelemetryblock
 # How to do it:
 # Easy Way:
-# Open notepad and paste the code to it and save it as teleblock.bat and save it on to an desktop and then press Win+R and type in shell:startup and then copy the file from the desktop to that folder. If you don't do the last step amd rebooted your pc # the telemetry will continue
+# Open notepad and paste the code to it from 0.97.bat file
+# Save it as teleblock.bat and save it on to an desktop
+# Then press Win+R and type in shell:startup
+# Then copy the file from the desktop to that folder. -If you don't do the last step amd rebooted your pc # the telemetry will continue
 #
 #
 # Hard Way: when you like doing it the complicated way:
