@@ -1,6 +1,6 @@
 # WinTelemetryblock
 How to do it:
-open text editor [notepad] and paste an code from BETA file and as an block-telemetry.ps1, Set the PowerShell Script to Run at Startup:
+open text editor [notepad] and paste an code from BETA file and as an block-telemetry.ps1 IN TO PUBLIC USER'S DOCUMENTS, Set the PowerShell Script to Run at Startup:
 Press Win + R, type shell:startup, and press Enter. This opens the Startup folder.
     Create a shortcut to the script in this folder:
         Right-click in the folder, select New > Shortcut.
