@@ -4,7 +4,7 @@ open text editor [notepad] and paste an code from BETA file and as an block-tele
 Press Win + R, type shell:startup, and press Enter. This opens the Startup folder.
     Create a shortcut to the script in this folder:
         Right-click in the folder, select New > Shortcut.
-        Enter powershell.exe -ExecutionPolicy Bypass -File "C:\path\to\script\block-telemetry.ps1".
+        Enter powershell.exe -ExecutionPolicy Bypass -File "C:\Users\Public\Documents\block-telemetry.ps1".
         Click Next, name the shortcut, and then click Finish.
 Reboot and it's done.
 
